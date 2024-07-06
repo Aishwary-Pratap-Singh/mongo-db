@@ -1,0 +1,1 @@
+Basic coode to use mongo with python.
